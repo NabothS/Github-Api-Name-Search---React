@@ -1,0 +1,20 @@
+{
+  "name": "project-1-github-naboths",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdmgent-2122-mobdev2/project-1-github-NabothS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdmgent-2122-mobdev2/project-1-github-NabothS/issues"
+  },
+  "homepage": "https://github.com/gdmgent-2122-mobdev2/project-1-github-NabothS#readme"
+}

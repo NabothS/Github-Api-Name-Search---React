@@ -1,0 +1,51 @@
+.Card{
+    position: -webkit-sticky;
+    position: sticky;
+    top:50px;
+    margin-left: 20px;
+    margin-top:9px;
+    max-height: 60vh;
+    background-color: white;
+    border-radius: 5px;
+    width: 40vw;
+    padding:20px;
+    overflow: auto;
+}
+.CardUser{
+
+    display: flex;
+    justify-content: space-between;
+
+}
+.CardUser p{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    font-size: 1.7vw;
+    font-weight: 600;
+}
+.CardUser p img{
+    margin-right:20px;
+    width: 6vw;
+    border-radius: 10px;
+}
+.count{
+    font-weight: bold;
+    font-size: 1vw;
+}
+.followersContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.followerBox{
+    display: flex;
+    border: 0.5px solid #AAA;
+    border-radius: 0.5px;
+    margin: 10px;
+    width: 45%;
+    font-size: 1vw;
+}
+.followerBox img{
+    width: 3.5vw;
+}

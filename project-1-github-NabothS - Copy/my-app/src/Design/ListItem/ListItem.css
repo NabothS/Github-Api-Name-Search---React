@@ -1,0 +1,22 @@
+p{
+    padding: 20px;
+}
+img{
+    width: 60px;
+    border-radius: 5px 0 0 5px;
+}
+.itemBar{
+    background-color: white;
+    margin: 10px 0 0 100px;
+    width: 20vw;
+    font-size: 1rem;
+    display: flex;
+    border-radius: 5px;
+    padding:5px;
+    transition: 0.1s all ease-in-out;
+}
+.itemBar:hover{
+    background-color: black;
+    color:white;
+    cursor: pointer;
+}
